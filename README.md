@@ -1,18 +1,20 @@
 # MarvelChronology
 
-## Timeline
+[Enter the Fox Marvel universe](Fox.md)
+
+## Timeline (Earth-199999)
 
 | Movie                                   | Notes                                     |
 | --------------------------------------- | ----------------------------------------- |
 | Captain America: The First Avenger      |                                           |
 | Captain Marvel                          | After credits scene is after Infinity War |
-| [Sony Spider-Man movies](Spider-Man.md) |                                           |
+| [Sony Spider-Man movies](Spider-Man.md) | Earth-96283 and Earth-120703              |
 | Iron Man                                |                                           |
 | Iron Man 2                              |                                           |
 | Thor                                    |                                           |
 | The Avengers                            |                                           |
 | Iron Man 3                              |                                           |
-| [The Defenders Saga](Defenders.md)      |                                           |
+| [The Defenders Saga](Defenders.md)      | Earth-Defenders Saga?                     |
 | The Agents of SHIELD                    | Season 1                                  |
 | Thor: Dark World                        |                                           |
 | Captain America and the Winter Soldier  |                                           |
@@ -40,18 +42,19 @@
 | Spider-Man: No Way Home                 |                                           |
 | Hawkeye                                 |                                           |
 
-## Unspecified time
+## Unspecified time (and / or universe)
 
-| Movie                                     | Notes    |
-| ----------------------------------------- | -------- |
-| What If...?                               |          |
-| Shang-Chi and the Legend of the Ten Rings |          |
-| The Agents of SHIELD                      | Season 5 |
-| The Agents of SHIELD                      | Season 6 |
-| The Agents of SHIELD                      | Season 7 |
+| Movie                                     | Notes                  |
+| ----------------------------------------- | ---------------------- |
+| What If...?                               |                        |
+| Shang-Chi and the Legend of the Ten Rings |                        |
+| The Agents of SHIELD                      | Season 5, Earth-TRN676 |
+| The Agents of SHIELD                      | Season 6               |
+| The Agents of SHIELD                      | Season 7               |
+| Spider-Man: Into the Spider-Verse         |                        |
 
 ## Contribution
 
-1. Fork
-2. Make changes
-3. Pull request
+1. 🍴 Fork
+2. ✍️ Make changes
+3. ↪️ Pull request
